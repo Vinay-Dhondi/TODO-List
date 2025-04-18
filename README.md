@@ -7,6 +7,6 @@ Features
 ✔️ Filter tasks (All/Active/Completed)
 ✔️ Clean, responsive design
 
-Try it out → Live Demo (add your link here)
+Try it out → (https://vinay-dhondi.github.io/TODO-List/)
 
 Tech Stack: HTML5, CSS3, JavaScript
